@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/giftedee">
-    <img src="https://komarev.com/ghpvc/?username=giftedee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/giftdee">
+    <img src="https://komarev.com/ghpvc/?username=giftdee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
@@ -74,7 +74,7 @@
   <a href="https://youtube.com/@davlodavlo19" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://instagram.com/gifted_dave" target="_blank">
+  <a href="https://instagram.com/gifted_dave_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
