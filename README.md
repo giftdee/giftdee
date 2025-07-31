@@ -30,8 +30,9 @@
 - 🛠️ Running a project called **DAVE-XMD** *(Node.js WhatsApp Bot)*
 - 💬 Ask me about anything! I’m always learning.
 - 🌍 From: Kenya 🇰🇪
-- 💬 Telegram: [@Digladoo](https://t.me/Digladoo)
-- 🧩 Fun fact: I love turning simple ideas into working bots!
+- ⏩City: Nairobi 
+
+- 🧩 Fun fact: I love turning simple ideas into working bots!😩
 
 ---
 
