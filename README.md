@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giftedee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&icon_color=53b14f&text_color=FFF" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giftedee&theme=react-dark&bg_color=0D1117&hide_border=true&color=53b14f&line=53b14f&point=FFFFFF" alt="Activity Graph" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=giftdee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&icon_color=53b14f&text_color=FFF" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giftdee&theme=react-dark&bg_color=0D1117&hide_border=true&color=53b14f&line=53b14f&point=FFFFFF" alt="Activity Graph" width="400"/>
 </div>
 
 ---
